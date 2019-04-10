@@ -1,0 +1,44 @@
+* {
+    background-color: gray;
+    text-align: center;
+    
+}
+
+h1, nav, footer {
+    width: 960px;
+    height: 60px;
+    padding-top: 25px;
+    background-color: lightgrey;
+    margin-left: 100px;
+}
+
+nav {
+    margin-top: -15px;
+}
+
+section {
+    float: left;
+    background-color: lightgrey;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 600px;
+    height: 190px;
+    padding-top: 40px;
+}
+
+article {
+    position: absolute;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 560px;
+    height: 110px;
+    padding-top: 20px;
+}
+
+
+
+footer {
+    clear: both;
+    margin-top: 20px;
+}
